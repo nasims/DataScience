@@ -1,2 +1,4 @@
 ./data_wrangling_json/sliderule_dsi_json_exercise.ipynb
 ./data_wrangling_json/data/world_bank_projects_less.json
+./human_temp/data/human_body_temperature.csv
+./human_temp/sliderule_dsi_inferential_statistics_exercise_1.ipynb
